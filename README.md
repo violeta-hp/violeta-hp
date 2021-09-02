@@ -2,7 +2,7 @@
 
    # *Hi there, welcome to my GitHub account!* 
    
-   ### My name is Violeta and I am just a curious person who is working to develop her programming skills in order to exploit data.
+   ### My name is Violeta Hernández Puente and I am just a curious person who is working to develop her programming skills in order to exploit data.
 
 <h3 align="center">📚 Been exposed to these technologies: 📚</h3>
 <p align="center">
