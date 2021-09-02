@@ -1,4 +1,6 @@
-﻿Hi there! ✨😊
+![image](https://user-images.githubusercontent.com/63214938/131773626-5cac267a-95b3-477e-9571-e7f712281623.png)
+
+Hi there! ✨😊
 
 My name is Violeta and I’m just a super curious person who wants to develop her programming skills! 
 
