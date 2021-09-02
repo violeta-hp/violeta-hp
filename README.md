@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SQL-276DC3?style=flat-square&logo=SQL&logoColor=white"/></a>&nbsp
    
 </p>
 
