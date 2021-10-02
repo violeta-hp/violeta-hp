@@ -16,8 +16,7 @@
 </p>
 
 <h3 align="center">🌈 Let’s connect! 🌈</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/lbg-violeta-hp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lbg-violeta-hp/"/></a>&nbsp 
+<p align="center"> 
   <a href="mailto:violeta.hp@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=violeta.hp@outlook.com"/></a> 
   <a href="https://www.instagram.com/violeehp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/violeehp/"/></a>&nbsp
  
